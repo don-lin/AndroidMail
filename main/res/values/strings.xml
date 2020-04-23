@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DonlinEmail</string>
+    <string name="from">From  :</string>
+    <string name="to">To     :</string>
+    <string name="cc">CC     :</string>
+    <string name="bcc">BCC    :</string>
+    <string name="sub">Subject:</string>
+    <string name="body">Email Body:</string>
+
+</resources>
